@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="200" height="200" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; }
+   .ColorScheme-ButtonBackground { color:#343434; }
+   .ColorScheme-Highlight { color:#4285f4; }
+   .ColorScheme-Text { color:#dfdfdf; }
+   .ColorScheme-ViewBackground { color:#242424; }
+   .ColorScheme-NegativeText { color:#f44336; }
+   .ColorScheme-PositiveText { color:#4caf50; }
+   .ColorScheme-NeutralText { color:#ff9800; }</style>
+ <defs>
+  <clipPath id="clipPath1091">
+   <g transform="matrix(5.5483 0 0 5.5483 -1267.6 734.82)">
+    <rect x="212.4" y="-148.51" width="194.65" height="194.65" stroke-width=".18024"/>
+   </g>
+  </clipPath>
+  <clipPath id="clipPath1169">
+   <g transform="matrix(5.5483 0 0 5.5483 -1677.9 -15.423)">
+    <rect x="212.4" y="-148.51" width="194.65" height="194.65" stroke-width=".18024"/>
+   </g>
+  </clipPath>
+ </defs>
+ <g id="ClockFace" transform="matrix(.21762 .05831 -.05831 .21762 28.18 -24.396)" clip-path="url(#clipPath1091)" display="block">
+  <g transform="translate(450.83 450.83)">
+   <path class="ColorScheme-Background" d="m436.69 126.22c-11.003 38.065-48.476 63.989-68.007 96.385-20.209 33.519-25.968 78.62-53.561 105.1-27.992 26.866-73.432 30.697-107.18 49.313-33.751 18.614-61.233 55.002-98.891 64.343-37.123 9.208-78.339-9.984-117.47-10.775-37.82-0.76401-79.738 17.101-117.8 6.098-38.066-11.003-63.99-48.476-96.386-68.007-33.519-20.209-78.619-25.968-105.1-53.562-26.867-27.991-30.697-73.43-49.312-107.18-18.614-33.751-55.003-61.234-64.344-98.891-9.208-37.123 9.983-78.341 10.774-117.47 0.76401-37.819-17.098-79.737-6.095-117.8 11.002-38.066 48.475-63.991 68.006-96.386 20.209-33.519 25.968-78.619 53.562-105.1 27.991-26.867 73.43-30.698 107.18-49.313 33.751-18.614 61.234-55.002 98.891-64.343 37.123-9.208 78.34 9.983 117.47 10.774 37.819 0.76401 79.738-17.099 117.8-6.097 38.066 11.003 63.99 48.476 96.385 68.007 33.52 20.209 78.62 25.968 105.1 53.561 26.867 27.992 30.697 73.431 49.312 107.18 18.614 33.751 55.003 61.233 64.344 98.891 9.208 37.123-9.984 78.34-10.775 117.47-0.763 37.82 17.101 79.738 6.098 117.8z" fill="currentColor"/>
+  </g>
+ </g>
+ <path id="HandCenterScrew" d="m-45 100a5 5 0 1 1-10 0 5 5 0 1 1 10 0z" fill="#232629" opacity=".001"/>
+ <path id="Glass" transform="matrix(1.5739 0 0 1.5739 111.91 -57.392)" d="m-150 100a45 45 0 1 1-90 0 45 45 0 1 1 90 0z" fill="#232629" opacity=".001"/>
+ <g id="SecondHand">
+  <g transform="matrix(.9 0 0 .9 11.585 34.871)">
+   <g transform="matrix(.25 0 0 .25 115.79 161.19)" clip-path="url(#clipPath1169)" display="block">
+    <g transform="translate(40.25,40.25)">
+     <path class="ColorScheme-Highlight" d="m40 0c0 22.091-17.909 40-40 40-22.092 0-40-17.909-40-40 0-22.092 17.908-40 40-40 22.091 0 40 17.908 40 40z" fill="currentColor"/>
+    </g>
+   </g>
+  </g>
+  <circle cx="124" cy="101" r="5" fill="#232629" opacity=".001"/>
+ </g>
+ <rect id="HourHand" class="ColorScheme-Text" x="31" y="91" width="16" height="58" rx="8" fill="currentColor" stroke-width="1.0087"/>
+ <rect id="MinuteHand" class="ColorScheme-Highlight" x="62" y="94" width="16" height="80" rx="8" fill="currentColor" stroke-width="1.0127"/>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 173 56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient2179" x1="-23" x2="-23" y1="9.3622" y2="12.362" gradientTransform="matrix(1 0 0 1.6667 51 -37.604)" gradientUnits="userSpaceOnUse" xlink:href="#buttonNew"/>
+  <linearGradient id="buttonNew">
+   <stop offset="0"/>
+   <stop stop-opacity=".639" offset=".2"/>
+   <stop stop-opacity=".361" offset=".4"/>
+   <stop stop-opacity=".161" offset=".6"/>
+   <stop stop-opacity=".039" offset=".8"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2179-3" x1="-23" x2="-23" y1="9.3622" y2="12.362" gradientTransform="matrix(1 0 0 1.6667 44 -37.604)" gradientUnits="userSpaceOnUse" xlink:href="#buttonNew"/>
+ </defs>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#232629;
+        }
+        .ColorScheme-Background {
+            color:#eff0f1;
+        }</style>
+ <path id="hint-stretch-borders" d="m-7-7h5v5h-5z" opacity=".6"/>
+ <g fill="#f0f">
+  <path id="hint-top-margin" d="m14 4.0199e-6h4v6h-4z"/>
+  <path id="hint-bottom-margin" d="m14 26h4v6h-4z"/>
+  <path id="hint-right-margin" d="m32 14v4h-6v-4z"/>
+  <path id="hint-left-margin" d="m6 14v4h-6v-4z"/>
+ </g>
+ <rect x="-32" y="4e-6" width="32" height="32" fill="none" stroke="#000"/>
+ <g fill="#fff">
+  <rect id="invisibleMarginLeft" x="-27" y="8" width="2" height="6" opacity=".003" stroke-width=".57735"/>
+  <rect id="invisibleMarginTop" x="-24" y="5" width="6" height="2" opacity=".003" stroke-width=".57735"/>
+  <rect id="invisibleMarginTopLeft" x="-27" y="5" width="2" height="2" opacity=".003" stroke-width=".33333"/>
+  <rect id="invisibleMarginBottomLeft" x="-27" y="15" width="2" height="2" opacity=".003" stroke-width=".33333"/>
+  <rect id="invisibleMarginBottom" x="-24" y="15" width="6" height="2" fill="#fff" opacity=".003" stroke-width=".57735"/>
+ </g>
+ <path id="headerTopCenter" class="ColorScheme-Background" d="m-24 8h6v6h-6z" opacity=".02"/>
+ <path id="headerTopTopLeft" d="m-25 1c-3.324 0-6 2.676-6 6h6z" opacity=".02"/>
+ <path id="headerTopTop" class="ColorScheme-Background" d="m-24 1h6v6h-6z" opacity=".02"/>
+ <path id="headerTopLeft" class="ColorScheme-Background" d="m-31 8h6v6h-6z" opacity=".02"/>
+ <g id="headerTopBottomLeft">
+  <path d="m-31 15v6h6v-6z" opacity=".02"/>
+  <rect transform="scale(-1)" x="25" y="-21" width="6" height="4" fill="url(#linearGradient2179)" opacity=".15" stroke-width=".91287"/>
+ </g>
+ <g id="headerTopBottom">
+  <path class="ColorScheme-Background" d="m-24 15h6v6h-6z" opacity=".02"/>
+  <rect transform="scale(-1)" x="18" y="-21" width="6" height="4" fill="url(#linearGradient2179-3)" opacity=".15" stroke-width=".91287"/>
+ </g>
+ <g id="header-bottom">
+  <use transform="translate(37,5)" width="173" height="56.000004" xlink:href="#invisibleMarginBottom"/>
+ </g>
+ <g fill="#fff">
+  <rect id="invisibleMarginFooterLeft" x="-10" y="8" width="2" height="6" fill="#fff" opacity=".003" stroke-width=".57735"/>
+  <rect id="invisibleMarginFooterTop" x="-7" y="5" width="6" height="2" opacity=".003" stroke-width=".57735"/>
+  <rect id="invisibleMarginFooterTopLeft" x="-10" y="5" width="2" height="2" opacity=".003" stroke-width=".33333"/>
+  <rect id="invisibleMarginFooterBottomLeft" x="-10" y="15" width="2" height="2" fill="#fff" opacity=".003" stroke-width=".33333"/>
+  <rect id="invisibleMarginFooterBottom" x="-7" y="15" width="6" height="2" fill="#fff" opacity=".003" stroke-width=".57735"/>
+ </g>
+ <path id="footerCenter" class="ColorScheme-Background" d="m-7 8h6v6h-6z" opacity=".04"/>
+ <g id="footerTopLeft">
+  <path d="m-8 1h-6v6h6z" opacity=".04"/>
+  <path d="m-8 1h-6v1h6z" opacity=".15" stroke-width=".40825"/>
+ </g>
+ <g id="footerTop">
+  <path class="ColorScheme-Background" d="m-7 1h6v6h-6z" opacity=".04"/>
+  <path class="ColorScheme-Background" d="m-7 1h6v1h-6z" opacity=".15" stroke-width=".40825"/>
+ </g>
+ <path id="footerLeft" class="ColorScheme-Background" d="m-14 8h6v6h-6z" opacity=".04"/>
+ <path id="footerBottomLeft" d="m-14 15c0 3.324 2.676 6 6 6v-6z" opacity=".04"/>
+ <path id="footerBottom" class="ColorScheme-Background" d="m-7 15h6v6h-6z" opacity=".04"/>
+ <path d="m-27-5v3c0-1.662 1.338-3 3-3z" fill="#404040" opacity=".89363"/>
+ <g fill-opacity="0">
+  <use id="footer-center" transform="translate(52 5)" width="173" height="56.000004" xlink:href="#footerCenter"/>
+  <g id="footer-bottomleft">
+   <use transform="translate(52,5)" width="173" height="56.000004" fill-opacity="0" xlink:href="#invisibleMarginFooterBottomLeft"/>
+   <use transform="translate(52,5)" width="173" height="56.000004" fill-opacity="0" xlink:href="#footerBottomLeft"/>
+  </g>
+  <g id="footer-bottom">
+   <use transform="translate(52,5)" width="173" height="56.000004" xlink:href="#invisibleMarginFooterBottom"/>
+   <use transform="translate(52,5)" width="173" height="56.000004" xlink:href="#footerBottom"/>
+  </g>
+  <g id="footer-right" transform="matrix(-1,0,0,1,96,-1e-7)">
+   <use transform="translate(52,5)" width="173" height="56.000004" xlink:href="#invisibleMarginFooterLeft"/>
+   <use transform="translate(52,5)" width="173" height="56.000004" xlink:href="#footerLeft"/>
+  </g>
+  <use id="footer-bottomright" transform="matrix(-1 0 0 1 96 -1e-7)" width="173" height="56.000004" xlink:href="#footer-bottomleft"/>
+ </g>
+ <g stroke-width=".32882">
+  <rect id="footer-topleft" x="38" y="6" width="6" height="1" fill-opacity=".15" class="ColorScheme-Text" fill="currentColor"/>
+  <rect id="footer-top" x="45" y="6" width="6" height="1" fill-opacity=".15" class="ColorScheme-Text" fill="currentColor"/>
+  <rect id="footer-topright" x="52" y="6" width="6" height="1" fill-opacity=".15" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+ <rect id="footer-left" x="38" y="13" width="6" height="6" fill-opacity="0" stroke-width=".32882"/>
+</svg>

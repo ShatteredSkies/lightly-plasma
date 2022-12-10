@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>hover-hint-top-margin"
+    width="2"
+    height="0.001"
+    x="-58"
+    y="39.999001" /&gt;hover-hint-bottom-margin"
+    width="2"
+    height="0.001"
+    x="-58"
+    y="70" /&gt;hover-hint-left-margin"
+    width="2"
+    height="0.001"
+    x="-56"
+    y="-98.000999"
+    transform="rotate(-90)" /&gt;hover-hint-right-margin"
+    width="2"
+    height="0.001"
+    x="-56"
+    y="-18"
+    transform="rotate(-90)" /&gt;focus-hint-top-margin"
+    width="2"
+    height="0.001"
+    x="-58"
+    y="79.999001" /&gt;focus-hint-bottom-margin"
+    width="2"
+    height="0.001"
+    x="-58"
+    y="110" /&gt;focus-hint-left-margin"
+    width="2"
+    height="0.001"
+    x="-96"
+    y="-98.000999"
+    transform="rotate(-90)" /&gt;focus-hint-right-margin"
+    width="2"
+    height="0.001"
+    x="-96"
+    y="-18"
+    transform="rotate(-90)" /&gt;hover-hint-top-margin"
+    width="2"
+    height="0.001"
+    x="-58"
+    y="39.999001" /&gt;hover-hint-bottom-margin"
+    width="2"
+    height="0.001"
+    x="-58"
+    y="70" /&gt;hover-hint-left-margin"
+    width="2"
+    height="0.001"
+    x="-56"
+    y="-98.000999"
+    transform="rotate(-90)" /&gt;hover-hint-right-margin"
+    width="2"
+    height="0.001"
+    x="-56"
+    y="-18"
+    transform="rotate(-90)" /&gt;focus-hint-top-margin"
+    width="2"
+    height="0.001"
+    x="-58"
+    y="79.999001" /&gt;focus-hint-bottom-margin"
+    width="2"
+    height="0.001"
+    x="-58"
+    y="110" /&gt;focus-hint-left-margin"
+    width="2"
+    height="0.001"
+    x="-96"
+    y="-98.000999"
+    transform="rotate(-90)" /&gt;focus-hint-right-margin"
+    width="2"
+    height="0.001"
+    x="-96"
+    y="-18"
+    transform="rotate(-90)" /&gt;</defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text {
+      color: #31363b;
+      stop-color: #31363b;
+    }
+
+    .ColorScheme-Background {
+      color: #eff0f1;
+      stop-color: #eff0f1;
+    }
+
+    .ColorScheme-Highlight {
+      color: #3daee9;
+      stop-color: #3daee9;
+    }
+
+    .ColorScheme-ViewText {
+      color: #31363b;
+      stop-color: #31363b;
+    }
+
+    .ColorScheme-ViewBackground {
+      color: #fcfcfc;
+      stop-color: #fcfcfc;
+    }
+
+    .ColorScheme-ViewHover {
+      color: #93cee9;
+      stop-color: #93cee9;
+    }
+
+    .ColorScheme-ViewFocus {
+      color: #3daee9;
+      stop-color: #3daee9;
+    }
+
+    .ColorScheme-ButtonText {
+      color: #31363b;
+      stop-color: #31363b;
+    }
+
+    .ColorScheme-ButtonBackground {
+      color: #eff0f1;
+      stop-color: #eff0f1;
+    }
+
+    .ColorScheme-ButtonHover {
+      color: #93cee9;
+      stop-color: #93cee9;
+    }
+
+    .ColorScheme-ButtonFocus {
+      color: #3daee9;
+      stop-color: #3daee9;
+    }
+  </style>
+  <rect id="hint-focus-over-base" x="-60" y="-14" width="2.0329" height="2.0771" rx="2.0771" fill="#4e9a06" />
+  <g class="ColorScheme-ButtonText" fill="currentColor" transform="translate(-9.99e-4)" opacity=".08">
+    <rect id="base-center" x="16" y="16" width="16" height="16" />
+    <g id="base-topleft" transform="matrix(5.3333 0 0 5.3333 -784 197.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="base-top" transform="matrix(.7619 0 0 5.3333 -10.667 208)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="base-topright" transform="matrix(-5.3333 0 0 5.3333 832 197.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="base-bottom" transform="matrix(.7619 0 0 -5.3333 -10.667 -160)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="base-bottomleft" transform="matrix(5.3333 0 0 -5.3333 -784 -149.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="base-bottomright" transform="matrix(-5.3333 0 0 -5.3333 832 -149.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="base-left" transform="matrix(0 -.7619 5.3333 0 208 58.667)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="base-right" transform="matrix(0 -.7619 -5.3333 0 -160 58.667)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+  </g>
+  <g class="ColorScheme-ButtonText" fill="currentColor" opacity=".08">
+    <rect id="hover-center" x="15.999" y="64" width="16" height="16" />
+    <g id="hover-topleft" transform="matrix(5.3333 0 0 5.3333 -784 245.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="hover-top" transform="matrix(.7619 0 0 5.3333 -10.668 256)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="hover-topright" transform="matrix(-5.3333 0 0 5.3333 832 245.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="hover-bottom" transform="matrix(.7619 0 0 -5.3333 -10.668 -112)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="hover-bottomleft" transform="matrix(5.3333 0 0 -5.3333 -784 -101.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="hover-bottomright" transform="matrix(-5.3333 0 0 -5.3333 832 -101.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="hover-left" transform="matrix(0 -.7619 5.3333 0 208 106.67)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="hover-right" transform="matrix(0 -.7619 -5.3333 0 -160 106.67)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+  </g>
+  <g class="ColorScheme-ButtonText" fill="currentColor" opacity=".08">
+    <rect id="focus-center" x="15.999" y="112" width="16" height="16" />
+    <g id="focus-topleft" transform="matrix(5.3333 0 0 5.3333 -784 293.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="focus-top" transform="matrix(.7619 0 0 5.3333 -10.668 304)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="focus-topright" transform="matrix(-5.3333 0 0 5.3333 832 293.33)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="focus-bottom" transform="matrix(.7619 0 0 -5.3333 -10.668 -64)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="focus-bottomleft" transform="matrix(5.3333 0 0 -5.3333 -784 -53.333)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="focus-bottomright" transform="matrix(-5.3333 0 0 -5.3333 832 -53.333)">
+      <path transform="translate(115,2)" d="m35-39c-1.662 0-3 1.338-3 3h3z" />
+    </g>
+    <g id="focus-left" transform="matrix(0 -.7619 5.3333 0 208 154.67)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+    <g id="focus-right" transform="matrix(0 -.7619 -5.3333 0 -160 154.67)">
+      <rect x="35" y="-39" width="21" height="3" />
+    </g>
+  </g>
+  <g fill="#4e9a06">
+    <rect id="base-hint-left-margin" x="-98" y="14" width="9" height="2" />
+    <rect id="base-hint-right-margin" x="-24" y="14" width="9" height="2" />
+    <rect id="base-hint-bottom-margin" x="-58" y="24" width="2" height="7" />
+    <rect id="base-hint-top-margin" x="-58" width="2" height="7" />
+    <rect id="hover-hint-left-margin" x="-98.001" y="69" width=".1" height="2" />
+    <rect id="hover-hint-right-margin" x="-24.001" y="69" width=".1" height="2" />
+    <rect id="hover-hint-bottom-margin" x="-58.001" y="79" width="2" height=".1" />
+    <rect id="hover-hint-top-margin" x="-58.001" y="55" width="2" height=".1" />
+    <rect id="focus-hint-left-margin" x="-95" y="127" width=".1" height="2" />
+    <rect id="focus-hint-right-margin" transform="scale(-1,1)" x="20.9" y="127" width=".1" height="2" />
+    <rect id="focus-hint-bottom-margin" x="-55" y="137" width="2" height=".1" />
+    <rect id="focus-hint-top-margin" x="-55" y="113" width="2" height=".1" />
+    <rect id="hint-stretch-borders" x="-64" y="-14" width="2.0329" height="2.0771" rx="2.0771" />
+  </g>
+</svg>

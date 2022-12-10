@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220" height="85" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="materia">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
+ </defs>
+ <rect id="center" class="ColorScheme-Background" x="7" y="28" width="50" height="50" fill="currentColor" opacity=".85"/>
+ <g id="topleft" transform="translate(-183 -231)" opacity=".85">
+  <path class="ColorScheme-Background" d="m190 252v7h-7v-2c0-2.77 2.23-5 5-5z" fill="currentColor"/>
+ </g>
+ <g id="left" transform="translate(-183 -231)" opacity=".85">
+  <path class="ColorScheme-Background" d="m183 259v50l7 1e-5v-50z" fill="currentColor"/>
+ </g>
+ <g id="right" transform="translate(-183 -231)" opacity=".85">
+  <path class="ColorScheme-Background" d="m247 259v50l-7 1e-5v-50z" fill="currentColor"/>
+ </g>
+ <g id="bottomleft" transform="translate(-183 -231)" opacity=".85">
+  <path class="ColorScheme-Background" d="m190 316v-7h-7v2c0 2.77 2.23 5 5 5z" fill="currentColor"/>
+ </g>
+ <g id="bottom" transform="translate(-183 -231)" opacity=".85">
+  <path class="ColorScheme-Background" d="m190 316h50v-7h-50z" fill="currentColor"/>
+ </g>
+ <g id="bottomright" transform="translate(-183 -231)" opacity=".85">
+  <path class="ColorScheme-Background" d="m240 316v-7h7v2c0 2.77-2.23 5-5 5z" fill="currentColor"/>
+ </g>
+ <g id="topright" transform="translate(-183 -231)" opacity=".85">
+  <path class="ColorScheme-Background" d="m240 252v7h7v-2c0-2.77-2.23-5-5-5z" fill="currentColor"/>
+ </g>
+ <g id="top" transform="translate(-183 -231)" opacity=".85">
+  <path class="ColorScheme-Background" d="m190 252h50v7h-50z" fill="currentColor"/>
+ </g>
+ <g fill="#f0f">
+  <rect id="shadow-hint-right-margin" x="210" y="41" width="10" height="4"/>
+  <rect id="shadow-hint-bottom-margin" x="176" y="75" width="4" height="10"/>
+  <rect id="shadow-hint-left-margin" x="136" y="41" width="10" height="4"/>
+  <rect id="shadow-hint-top-margin" x="177" y="1" width="4" height="10"/>
+ </g>
+ <rect id="mask-center" x="75" y="28" width="50" height="50"/>
+ <path id="mask-topleft" d="m75 21v7h-7v-2c0-2.77 2.23-5 5-5z"/>
+ <path id="mask-left" d="m68 28v50l7 1e-5v-50z"/>
+ <path id="mask-right" d="m132 28v50l-7 1e-5v-50z"/>
+ <path id="mask-bottomleft" d="m75 85v-7h-7v2c0 2.77 2.23 5 5 5z"/>
+ <path id="mask-bottom" d="m75 85h50v-7h-50z"/>
+ <path id="mask-bottomright" d="m125 85v-7h7v2c0 2.77-2.23 5-5 5z"/>
+ <path id="mask-topright" d="m125 21v7h7v-2c0-2.77-2.23-5-5-5z"/>
+ <path id="mask-top" d="m75 21h50v7h-50z"/>
+ <rect id="hint-tile-center" width="5" height="5" fill="#f0f"/>
+ <rect id="shadow-center" x="153" y="18.06" width="50" height="50" fill="none"/>
+ <g fill="#0f0">
+  <rect id="shadow-hint-top-inset" x="172" y="75" width="4" height="10"/>
+  <rect id="shadow-hint-bottom-inset" x="173" y="1" width="4" height="10"/>
+  <rect id="shadow-hint-right-inset" transform="rotate(90)" x="37" y="-220" width="4" height="10"/>
+  <rect id="shadow-hint-left-inset" transform="rotate(90)" x="37" y="-146" width="4" height="10"/>
+ </g>
+ <g fill="#f0f">
+  <rect id="thick-hint-top-margin" x="29" y="21" width="4" height="8"/>
+  <rect id="thick-hint-bottom-margin" x="29" y="77" width="4" height="8"/>
+  <rect id="thick-hint-right-margin" transform="rotate(90)" x="51" y="-64" width="4" height="8"/>
+  <rect id="thick-hint-left-margin" transform="rotate(90)" x="51" y="-8" width="4" height="8"/>
+ </g>
+ <g fill="#800080">
+  <rect id="thick-center" x="5" width="2" height="2"/>
+  <rect id="hint-top-margin" x="29" y="21" width="4" height="4"/>
+  <rect id="hint-bottom-margin" x="29" y="81" width="4" height="4"/>
+  <rect id="hint-left-margin" y="51" width="4" height="4"/>
+  <rect id="hint-right-margin" x="60" y="51" width="4" height="4"/>
+ </g>
+</svg>

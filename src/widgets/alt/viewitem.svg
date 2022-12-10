@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="80" height="80" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(297,-432)">
+   <g class="ColorScheme-Highlight" fill="currentColor" transform="translate(-9.9998 -8)" opacity=".3">
+    <path id="selected-center" d="m-273 494v12h12v-12z"/>
+    <g id="selected-left" transform="matrix(3.375 0 0 .75001 -915.23 -128.4)">
+     <path d="m186.14 829.86v16h3.5556v-16z"/>
+    </g>
+    <g id="selected-topleft" transform="matrix(3.375 0 0 3.3749 -915.23 -2307.2)">
+     <path d="m186.14 829.41h3.5556v-3.5556s0-1e-5 -1e-5 -1e-5c-1.7845 0-3.5556 1.7796-3.5556 3.5556 0 2e-5 1e-5 -5e-5 1e-5 -5e-5z"/>
+    </g>
+    <g id="selected-top" transform="matrix(.091603 0 0 3.3749 -290.42 -2307.2)">
+     <path d="m190.14 825.86v3.5556h131v-3.5556z"/>
+    </g>
+    <g id="selected-topright" transform="matrix(3.375 0 0 3.3749 -1342.9 -2307.2)">
+     <path d="m321.14 825.86v3.5556h3.5555l-1e-5 -1e-5c0-1.783-1.7787-3.5556-3.5555-3.5556-2e-5 0 1e-5 7e-5 1e-5 7e-5z"/>
+    </g>
+    <g id="selected-right" transform="matrix(3.375 0 0 .75001 -1342.9 -128.4)">
+     <path d="m324.7 829.86v16h-3.5555v-16z"/>
+    </g>
+    <g id="selected-bottomright" transform="matrix(-3.375 0 0 -3.375 382.74 3308.7)">
+     <path d="m186.59 829.86h3.5555v-3.5556s2e-5 -5e-5 0-5e-5c-1.7784 0-3.5555 1.7773-3.5555 3.5556z"/>
+    </g>
+    <g id="selected-bottom" transform="matrix(-.091603 0 0 -3.3749 -243.58 3308.7)">
+     <path d="m190.14 826.3v3.5556h131v-3.5556z"/>
+    </g>
+    <g id="selected-bottomleft" transform="matrix(-3.375 0 0 -3.3749 810.35 3308.7)">
+     <path d="m321.59 826.3v3.5556h3.5556s2e-5 7e-5 2e-5 5e-5c0-1.7831-1.7769-3.5556-3.5556-3.5556z"/>
+    </g>
+   </g>
+   <g class="ColorScheme-Text" fill="currentColor" transform="translate(30 -54)" opacity=".08">
+    <path id="hover-center" d="m-273 540v12h12v-12z"/>
+    <g id="hover-left" transform="matrix(3.375 0 0 .75001 -915.23 -82.398)">
+     <path d="m186.14 829.86v16h3.5556v-16z"/>
+    </g>
+    <g id="hover-topleft" transform="matrix(3.375 0 0 3.375 -915.23 -2261.2)">
+     <path d="m186.14 829.41h3.5556v-3.5556s3e-5 -3e-5 2e-5 -3e-5c-1.7774 0-3.5556 1.7671-3.5556 3.5556l-1e-5 2e-5z"/>
+    </g>
+    <g id="hover-top" transform="matrix(.091603 0 0 3.375 -290.42 -2261.3)">
+     <path d="m190.14 825.86v3.5556h131v-3.5556z"/>
+    </g>
+    <g id="hover-topright" transform="matrix(3.375 0 0 3.375 -1342.9 -2261.3)">
+     <path d="m321.14 825.86v3.5556h3.5555c0-1.7723-1.7782-3.5556-3.5555-3.5556v-1e-5z"/>
+    </g>
+    <g id="hover-right" transform="matrix(3.375 0 0 .75001 -1342.9 -82.401)">
+     <path d="m324.7 829.86v16h-3.5555v-16z"/>
+    </g>
+    <g id="hover-bottomright" transform="matrix(-3.375 0 0 -3.375 382.73 3354.8)">
+     <path d="m186.59 829.86h3.5555v-3.5556h1e-5c-1.78 0-3.5555 1.7682-3.5555 3.5556z"/>
+    </g>
+    <g id="hover-bottom" transform="matrix(-.091603 0 0 -3.375 -243.58 3354.8)">
+     <path d="m190.14 826.3v3.5556h131v-3.5556z"/>
+    </g>
+    <g id="hover-bottomleft" transform="matrix(-3.375 0 0 -3.375 810.35 3354.7)">
+     <path d="m321.59 826.3v3.5556h3.5556s1e-5 4e-5 1e-5 3e-5c0-1.787-1.7758-3.5556-3.5556-3.5556-1e-5 0 0-3e-5 0-3e-5z"/>
+    </g>
+   </g>
+   <g class="ColorScheme-ButtonFocus" fill="currentColor" transform="translate(-9.9998)" opacity=".6">
+    <path id="selected+hover-center" d="m-273 446v12h12v-12z"/>
+    <g id="selected+hover-left" transform="matrix(3 0 0 .75 -845.43 -176.39)">
+     <path d="m186.14 829.86v16h4v-16z"/>
+    </g>
+    <g id="selected+hover-topleft" transform="matrix(3 0 0 3 -845.43 -2045.6)">
+     <path d="m186.14 829.86h4v-4h2e-5c-1.9914 0-4 1.9994-4 4h-1e-5z"/>
+    </g>
+    <g id="selected+hover-top" transform="matrix(.091603 0 0 3 -290.42 -2045.6)">
+     <path d="m190.14 825.86v4h131v-4z"/>
+    </g>
+    <g id="selected+hover-topright" transform="matrix(3 0 0 3 -1222.4 -2045.6)">
+     <path d="m321.14 825.86v4h4v1e-5c0-2.0003-1.9984-4-4-4z"/>
+    </g>
+    <g id="selected+hover-right" transform="matrix(3 0 0 .75 -1222.4 -176.39)">
+     <path d="m325.14 829.86v16h-4v-16z"/>
+    </g>
+    <g id="selected+hover-bottomright" transform="matrix(-3 0 0 -3 311.43 2949.6)">
+     <path d="m186.14 829.86h4v-4h1e-5c-2.0003 0-4 1.9894-4 4z"/>
+    </g>
+    <g id="selected+hover-bottom" transform="matrix(-.091603 0 0 -3 -243.58 2949.6)">
+     <path d="m190.14 825.86v4h131v-4z"/>
+    </g>
+    <g id="selected+hover-bottomleft" transform="matrix(-3 0 0 -3 688.43 2949.5)">
+     <path d="m321.14 825.86v4h4v-4e-5c0-2.0126-2.0006-4-4-4-1e-5 0 0 4e-5 0 4e-5z"/>
+    </g>
+   </g>
+   <g class="ColorScheme-ButtonBackground" fill="currentColor" transform="translate(-58,-1)" opacity="0">
+    <path id="normal-center" d="m-185 447v12h12v-12z"/>
+    <g id="normal-bottom" transform="matrix(.091592 0 0 3 -202.41 -2076.5)">
+     <path d="m190.13 845.86v4l131.02-0.0625v-3.9375z"/>
+    </g>
+    <g id="normal-bottomleft" transform="matrix(3 0 0 3 -757.43 -2076.5)">
+     <path d="m190.14 849.86v-4h-4v1.4688c0 1.405 1.1159 2.5312 2.5312 2.5312z"/>
+    </g>
+    <g id="normal-left" transform="matrix(3 0 0 .75 -757.43 -175.39)">
+     <path d="m186.14 829.86v16h4v-16z"/>
+    </g>
+    <g id="normal-topleft" transform="matrix(3 0 0 2.9999 -757.43 -2044.5)">
+     <path d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z"/>
+    </g>
+    <g id="normal-top" transform="matrix(.091603 0 0 2.9999 -202.42 -2044.5)">
+     <path d="m190.14 825.86v4h131v-4z"/>
+    </g>
+    <g id="normal-topright" transform="matrix(3 0 0 3 -1134.4 -2044.5)">
+     <path d="m321.14 825.86v4h4v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312z"/>
+    </g>
+    <g id="normal-right" transform="matrix(3 0 0 .75001 -1134.4 -175.4)">
+     <path d="m325.14 829.86v16h-4v-16z"/>
+    </g>
+    <g id="normal-bottomright" transform="matrix(3 0 0 3 -1134.4 -2076.6)">
+     <path d="m325.14 845.86h-4v4h1.4688c1.405 0 2.5312-1.1159 2.5312-2.5312z"/>
+    </g>
+  </g>
+  <g fill="#41cc4e">
+   <rect id="normal-hint-left-margin" x="-257" y="451" width="8" height="2"/>
+   <rect id="normal-hint-right-margin" x="-225" y="451" width="8" height="2"/>
+   <rect id="normal-hint-top-margin" transform="rotate(-90)" x="-435" y="-238" width="3" height="2"/>
+   <rect id="normal-hint-bottom-margin" transform="rotate(-90)" x="-472" y="-238" width="3" height="2"/>
+   <rect id="selected-hint-left-margin" x="-297" y="491" width="8" height="2"/>
+   <rect id="selected-hint-right-margin" x="-265" y="491" width="8" height="2"/>
+   <rect id="selected-hint-top-margin" transform="rotate(-90)" x="-475" y="-278" width="3" height="2"/>
+   <rect id="selected-hint-bottom-margin" transform="rotate(-90)" x="-512" y="-278" width="3" height="2"/>
+   <rect id="hover-hint-left-margin" x="-257" y="491" width="8" height="2"/>
+   <rect id="hover-hint-right-margin" x="-225" y="491" width="8" height="2"/>
+   <rect id="hover-hint-top-margin" transform="rotate(-90)" x="-475" y="-238" width="3" height="2"/>
+   <rect id="hover-hint-bottom-margin" transform="rotate(-90)" x="-512" y="-238" width="3" height="2"/>
+   <rect id="selected+hover-hint-left-margin" x="-297" y="451" width="8" height="2"/>
+   <rect id="selected+hover-hint-right-margin" x="-265" y="451" width="8" height="2"/>
+   <rect id="selected+hover-hint-top-margin" transform="rotate(-90)" x="-435" y="-278" width="3" height="2"/>
+   <rect id="selected+hover-hint-bottom-margin" transform="rotate(-90)" x="-472" y="-278" width="3" height="2"/>
+  </g>
+  <rect id="hint-stretch-borders" x="-299" y="430" width="2.0329" height="2.0771" rx="2.0771" fill="#4e9a06"/>
+ </g>
+</svg>
